@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
-          Jalal Edition <code>src/App.js</code> and save to reload.
+          Mehrnoosh Edition <code>src/App.js</code> and save to reload.
         </p>
       </div>
     );
